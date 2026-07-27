@@ -1,0 +1,18 @@
+{
+  "exportFolder": "00_Inbox",
+  "stripLinks": true,
+  "stripImages": true,
+  "stripCodeFences": true,
+  "keepInlineFormatting": true,
+  "headingSizeMap": {
+    "1": 28,
+    "2": 24,
+    "3": 20,
+    "4": 16,
+    "5": 14,
+    "6": 12
+  },
+  "indentSpacesPerLevel": 2,
+  "indentTwipsPerLevel": 360,
+  "tableWidthTwips": 9000
+}
