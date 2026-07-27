@@ -1,7 +1,7 @@
 {
   "id": "selection-to-word-rtf",
   "name": "Export Selection to Word (RTF)",
-  "version": "0.1.0",
+  "version": "1.4.0",
   "minAppVersion": "1.4.0",
   "description": "Export a selected Markdown passage or whole note as a Word-readable RTF while preserving common formatting.",
   "author": "Keith Pieper",
